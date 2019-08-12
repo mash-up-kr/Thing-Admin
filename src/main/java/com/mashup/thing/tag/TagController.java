@@ -1,5 +1,7 @@
 package com.mashup.thing.tag;
 
+import com.mashup.thing.tag.service.ResTagsDto;
+import com.mashup.thing.tag.service.TagService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
