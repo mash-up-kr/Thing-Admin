@@ -1,4 +1,4 @@
-package com.mashup.thing.tag;
+package com.mashup.thing.tag.domain;
 
 import com.mashup.thing.tag.domain.Tag;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,4 +1,4 @@
-package com.mashup.thing.tag;
+package com.mashup.thing.tag.service;
 
 import lombok.Builder;
 import lombok.Getter;
